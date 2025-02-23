@@ -30,6 +30,8 @@ Watch the full demo video on YouTube: https://www.youtube.com/watch?v=2I3x0oUviA
 
 <img src="https://github.com/user-attachments/assets/c7a7847b-3424-4abf-be24-c48f5a4f2325" width="800">
 
+<img src="https://github.com/user-attachments/assets/7b8394ce-7001-4c21-9d20-083c2d0c249b" width="800">
+
 
 ## 📚 References
 
