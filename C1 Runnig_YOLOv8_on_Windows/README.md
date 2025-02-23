@@ -28,7 +28,7 @@ python prediction.py
 ## 🎥Demo Video
 Watch the full demo video on YouTube: https://www.youtube.com/watch?v=2I3x0oUviAg
 
-<img src="https://github.com/user-attachments/assets/6977bf6c-0d1b-4b5c-9174-ac4bf6bf4a77" width="800">
+<img src="https://github.com/user-attachments/assets/c7a7847b-3424-4abf-be24-c48f5a4f2325" width="800">
 
 
 ## 📚 References
