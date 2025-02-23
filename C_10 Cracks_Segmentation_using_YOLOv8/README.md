@@ -9,7 +9,7 @@ Ensure you have the following installed:
 - 🐍Python 3.8 or later
 - 📦ultralytics library (for YOLOv8)
 
-## 📦Installation and Runnig the Prediction
+## 📦Installation and Running the Prediction
 
 ```bash
 pip install ultralytics
