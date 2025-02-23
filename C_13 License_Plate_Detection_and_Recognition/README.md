@@ -51,11 +51,9 @@ python predict.py model='best.pt' source='demo.mp4'
 ### RESULTS
 
 #### Licence Plate  Detection and Recognition  
-![](./ultralytics/figure1.png)
+<img src="https://github.com/user-attachments/assets/ec1186c1-a29a-4c42-8a1b-1237f85538c2" width="500">
 
-#### Licence Plate  Detection and Recognition
-
-![](./ultralytics/figure3.png)
+<img src="https://github.com/user-attachments/assets/5604541a-8a38-43de-84f9-c052ee996470" width="500">
 
 ### Watch the Complete Step by Step Explanation
 
