@@ -1,0 +1,5 @@
+InputVideos
+OutputFile
+*.ipynb
+gender_dataset_face/
+*.model
