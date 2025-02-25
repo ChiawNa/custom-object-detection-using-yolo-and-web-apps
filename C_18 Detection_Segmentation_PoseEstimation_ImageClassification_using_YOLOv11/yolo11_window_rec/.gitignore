@@ -1,0 +1,5 @@
+runs/
+*.png
+*.jpg
+*.mp4
+.venv
